@@ -1,4 +1,4 @@
-#zhcx's WiKi
+#ZCX'S WiKi
 
 [技术]()
 
@@ -15,4 +15,4 @@
 - - - -
 [gimmick:themechooser](Theme)
 - - - - 
-[gimmick:theme](cosmo)
+[gimmick:theme](spacelab)
